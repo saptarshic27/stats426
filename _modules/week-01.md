@@ -1,8 +1,8 @@
 ---
-title: Introduction to Java
+title: (Week 1) Recap of Probability Theory
 ---
 
-Sep 28
+Aug 25
 : [Java & Git](#)
   : [1.1](#)
 
