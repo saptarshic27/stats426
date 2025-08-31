@@ -23,3 +23,7 @@ STATS 426 aims to introduce students to the fundamental principles and methodolo
 - [Canvas](https://umich.instructure.com/courses/797194) for lecture slides, videos and homeworks and solutions. 
 - [Gradescope](https://www.gradescope.com/courses/1094791) for submitting homeworks. 
 - [Piazza](https://piazza.com/umich/fall2025/stats426002/home) for announcements and discussions.
+
+# Main Reference
+Our primary reference will be this book, which you may need to consult periodically.
+- Rice, John A. *Mathematical Statistics and Data Analysis*. 3rd ed., Thomson/Brooks/Cole, 2007.
