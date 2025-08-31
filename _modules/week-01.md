@@ -3,10 +3,10 @@ title: (Week 1) Recap of Probability Theory
 ---
 
 Aug 25
-: [Java & Git](#)
+: Random Variables, Distributions, Expectation, Variance, Inverse CDF, Moment Generating Functions
   : [1.1](#)
 
-Sep 29
+Aug 27 
 : **Section**{: .label .label-purple }[Intro to Java](#)
   : [Solution](#)
 
