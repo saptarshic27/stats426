@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: STATS 426 002
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -8,7 +8,7 @@ seo:
   name: Introduction to Theoretical Statistics
 ---
 
-# Just the Class
+# Introduction to Theoretical Statistics
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
