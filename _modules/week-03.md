@@ -9,3 +9,6 @@ Sep 8
 Sep 10
 : Asymptotic properties of sample mean, confidence intervals, 
   : Chapter 7.3.3
+  
+Sep 12
+: **HW 1 is due**{: .label .label-red } 
