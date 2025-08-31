@@ -11,4 +11,4 @@ Aug 27
   : Chapter 3 (3.5, 3.6) and Chapter 4 (4.4).
 
 Aug 29
-: **HW 1 is released**{: .label .label-green }, due on 
+: **HW 1 released, due on Sep 12**{: .label .label-red }, 
