@@ -7,7 +7,7 @@ Aug 25
   : Chapter 2 and 4
 
 Aug 27 
-: MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. 
+: MGF continued, Joint and Conditional Distribution, Conditional Expectation, Chisquared R.V. Change of variable formula 
   : Chapter 3 (3.5, 3.6) and Chapter 4 (4.4).
 
 Aug 29
