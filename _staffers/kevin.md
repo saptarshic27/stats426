@@ -1,11 +1,11 @@
 ---
-name: Kevin Lin
+name: Saptarshi Chakraborty
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: saptarsc@umich.edu
+website: https://saptarshic27.github.io
+photo: sap.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: Monday 2-3:30 and Tuesday 1-2:30.
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
