@@ -4,7 +4,7 @@ title: Just the Class
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
+  type: STATS 426 002
   name: Just the Class
 ---
 
