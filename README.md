@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /:path/
 seo:
   type: STATS 426 002
-  name: Just the Class
+  name: Introduction to Theoretical Statistics
 ---
 
 # Just the Class
