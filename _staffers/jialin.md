@@ -1,6 +1,6 @@
 ---
 name: Jialin He
-role: Graduate Student Instructor
+role: Teaching Assistant
 email: jialhe@umich.edu
 photo: jialin.jpg
 meta:
