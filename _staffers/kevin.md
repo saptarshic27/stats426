@@ -7,5 +7,3 @@ photo: avatar.jpeg
 meta:
   Office Hours: Monday 2-3:30 and Tuesday 1-2:30.
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
