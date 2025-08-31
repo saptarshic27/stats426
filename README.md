@@ -10,7 +10,13 @@ seo:
 
 # Introduction to Theoretical Statistics
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+STATS 426 aims to introduce students to the fundamental principles and methodologies of statistical theory to upper-division undergraduate students. The course emphasizes rigorous understanding of:
+
+- **Estimation** including techniques such as the method of moments and maximum likelihood;
+- **Hypothesis testing** including confidence intervals and likelihood ratio methods;
+- **Large-sample approximations** for inference;
+- **Nonparametric and Bayesian methods**
+-- Theoretical foundations of comparing samples, linear models}, and related topics.
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
