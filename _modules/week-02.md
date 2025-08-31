@@ -7,4 +7,4 @@ Sep 1
 
 Sep 3
 : Introduction to sample surveys, Sampling bias, Simple random sampling with replacement vs. without replacement, properties of sample mean 
-  : Chapter 7.1 - 7.3
+  : Chapter 7.1 - 7.3.1
