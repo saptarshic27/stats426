@@ -1,5 +1,5 @@
 ---
-title: Sample Surveys
+title: (Week 2) Sample Surveys
 ---
 
 Sep 1
