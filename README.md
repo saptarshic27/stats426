@@ -16,7 +16,7 @@ STATS 426 aims to introduce students to the fundamental principles and methodolo
 - **Hypothesis testing** including confidence intervals and likelihood ratio methods;
 - **Large-sample approximations** for inference;
 - **Nonparametric and Bayesian methods**
--- Theoretical foundations of comparing samples, linear models}, and related topics.
+- Theoretical foundations of comparing samples, linear models}, and related topics.
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
