@@ -1,10 +1,11 @@
 ---
-title: (Week 2) Sample Surveys
+title: (Week 3) Sample Surveys
 ---
 
-Sep 1
-: No Class due to Labor Day
+Sep 8
+: Variance of sample mean for sampling with and without replacement, estimation of the population variance 
+  : Chapter 7.3.1 - 7.3.2
 
-Sep 3
-: Introduction to sample surveys, Sampling bias, Simple random sampling with replacement vs. without replacement, properties of sample mean 
-  : Chapter 7.1 - 7.3.1
+Sep 10
+: Asymptotic properties of sample mean, confidence intervals, 
+  : Chapter 7.3.3
