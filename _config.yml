@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Saptarshi Chakraborty:
     - 'https://saptarshic27.github.io'
-  Just the Class on GitHub:
-    - 'https://saptarshic27.github.io/stats426'
+  #STATS 426:
+  #  - 'https://saptarshic27.github.io/stats426'
 footer_content:
 
 # Collections for website data
