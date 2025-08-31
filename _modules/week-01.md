@@ -12,4 +12,4 @@ Aug 27
 
 Aug 29
 : **HW 1**{: .label .label-red } released 
-  : **due on Sep 12**.
+  : Due on Sep 12.
