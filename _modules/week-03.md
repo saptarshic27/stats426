@@ -11,4 +11,4 @@ Sep 10
   : Chapter 7.3.3
   
 Sep 12
-: **HW 1 is due**{: .label .label-red } 
+: **HW 1 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
