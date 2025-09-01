@@ -11,5 +11,5 @@ Aug 27
   : Chapter 3 (3.5, 3.6) and Chapter 4 (4.4).
 
 Aug 29
-: **HW 1**{: .label .label-red } released 
+: **HW 1**{: .label .label-red } released on [Canvas](https://umich.instructure.com/courses/797194)
   : Due on Sep 12.
