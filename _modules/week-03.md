@@ -7,7 +7,7 @@ Sep 8
   : Chapter 7.3.1 - 7.3.2
 
 Sep 10
-: Asymptotic properties of sample mean, confidence intervals, 
+: Central Limit Theorem, Asymptotic properties of sample mean, confidence intervals
   : Chapter 7.3.3
   
 Sep 12
