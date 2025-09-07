@@ -12,3 +12,5 @@ Sep 10
   
 Sep 12
 : **HW 1 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
+: **HW 2**{: .label .label-green } released on [Canvas](https://umich.instructure.com/courses/797194)
+  : Due on Sep 26.
