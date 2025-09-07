@@ -1,5 +1,5 @@
 ---
-title: (Week 3) Sample Surveys
+title: (Week 4) Parametric Estimation
 ---
 
 Sep 15
