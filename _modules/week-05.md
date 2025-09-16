@@ -1,5 +1,5 @@
 ---
-title: (Week 4) Parametric Estimation
+title: (Week 5) Parametric Estimation
 ---
 
 Sep 22
