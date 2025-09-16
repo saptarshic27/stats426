@@ -9,4 +9,5 @@ Sep 15
 Sep 17
 : Examples of the method of moments. Maximum Likelihood Estimates (MLE)
   : Chapter 8.5
+  
 **Solve Warmup and Practice Problems released on canvas**{: .label .label-purple }
