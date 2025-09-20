@@ -4,7 +4,7 @@ title: (Week 5) Parametric Estimation
 
 Sep 22
 : Desirable properties of estimators: unbiasedness, consistency. The concept of UMVUE, Fisher Information, and Cramer-Rao Lower Bound 
-  : Chapter 8.7
+  : Chapter 8.7, 8.5.2
 
 Sep 24
 : Asymptotic Properties of MLE and other estimates, the delta method, and confidence intervals
