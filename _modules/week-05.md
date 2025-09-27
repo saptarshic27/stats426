@@ -7,7 +7,7 @@ Sep 22
   : Chapter 8.7, 8.5.2
 
 Sep 24
-: Proof of CRLB, Asymptotic Properties of MLE and other estimates, the delta method, and confidence intervals
+: Proof of CRLB, Asymptotic Properties of MLE and other estimates, and confidence intervals
   : Chapter 8.5.2 - 8.5.3
   
 Sep 16
