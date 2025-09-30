@@ -7,5 +7,5 @@ Sep 29
   : Chapter 8.6
 
 Oct 1
-: Introduction to hypothesis testing
+: Credible Intervals, Introduction to hypothesis testing
   : Chapter 6.3, 9.1 - 9.2
