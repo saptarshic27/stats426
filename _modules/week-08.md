@@ -7,4 +7,4 @@ Oct 13
 
 Oct 15
 : **Midterm 1**{: .label .label-blue }
-  : In class (1028 DANA), 11:30am - 1:00pm
+  : In class, 11:30am - 1:00pm
