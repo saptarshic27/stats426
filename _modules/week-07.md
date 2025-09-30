@@ -1,5 +1,5 @@
 ---
-title: (Week 7) Hypothesis Testing
+title: (Week 7) Hypothesis Testing and Midterm Review
 ---
 
 Oct 6
