@@ -8,4 +8,6 @@ Oct 6
 
 Oct 8
 : Midterm Review
+
+Oct 10
 : **HW 3 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
