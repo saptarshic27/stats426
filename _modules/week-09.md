@@ -11,4 +11,5 @@ Oct 22
   : Chapter 6.3
 
 Oct 24
-: **HW 4 is released**{: .label .label-green } on [Gradescope](https://www.gradescope.com/courses/1094791)
+: **HW 3**{: .label .label-green } released on [Canvas](https://umich.instructure.com/courses/797194)
+  : Due on Oct 10. [Gradescope](https://www.gradescope.com/courses/1094791)
