@@ -7,8 +7,8 @@ Oct 20
   : Chapter 9.2
 
 Oct 22
-: generalize likelihood ratio tests, The *t*-test: one sample and two sample (unpaired)
-  : Chapter 6.3
+: Duality of confidence intervals and hypothesis testing and generalize likelihood ratio tests
+  : Chapters 9.3 and 9.4
 
 Oct 24
 : **HW 3**{: .label .label-green } released on [Canvas](https://umich.instructure.com/courses/797194)
