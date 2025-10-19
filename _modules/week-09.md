@@ -7,7 +7,7 @@ Oct 20
   : Chapter 9.2
 
 Oct 22
-: The *t*-test: one sample and two sample
+: generalize likelihood ratio tests, The *t*-test: one sample and two sample (unpaired)
   : Chapter 6.3
 
 Oct 24
