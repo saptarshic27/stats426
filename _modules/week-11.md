@@ -3,11 +3,13 @@ title: (Week 11) Linear Regression
 ---
 
 Nov 3
-: Ordinary least squares in one dimension: estimation 
-  : chapter 14
+: Ordinary least squares in one dimension, estimation 
+  : Chapter 14.2
 
 Nov 5
-: OLS: testing
+: OLS testing for dependence
+ : Chapter 14.2
+ 
   
 Sep 7
 : **HW 4 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
