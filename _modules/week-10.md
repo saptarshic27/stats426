@@ -3,10 +3,10 @@ title: (Week 9) Hypothesis Testing
 ---
 
 Oct 27
-: Paired and unpaired *t*-tests and Mann-Whitney U-test
-  : Chapter 11.2
+: GLRT continued and the one-sample *t*-test, independence of sample mean and variance
+  : Chapter 11.2 and 6.3
 
 Oct 29
-: Wilcoxon's signed rank test, discussions on inversions of tests to find confidence intervals
-  : Chapters 11.3 and 9.3
+: Inversions of tests to find confidence intervals
+  : Chapters 9.3
 
