@@ -7,7 +7,7 @@ Oct 20
   : Chapter 9.2
 
 Oct 22
-: Generalized likelihood ratio tests and the *t*-test
+: Generalized likelihood ratio tests
   : Chapters 9.4 and 6.3
 
 Oct 24
