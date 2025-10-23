@@ -7,6 +7,6 @@ Oct 27
   : Chapter 11.2 and 6.3
 
 Oct 29
-: Inversions of tests to find confidence intervals
-  : Chapters 9.3
+: Inversions of tests to find confidence intervals, introduction to ordinary least squares
+  : Chapters 14.1
 
