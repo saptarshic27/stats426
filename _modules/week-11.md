@@ -8,7 +8,7 @@ Nov 3
 
 Nov 5
 : OLS testing for dependence
- : Chapter 14.2
+  : Chapter 14.2
  
   
 Nov 7
