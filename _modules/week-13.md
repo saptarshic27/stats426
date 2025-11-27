@@ -7,8 +7,7 @@ Nov 17
   : Chapter 8.8
 
 Nov 19
-: Rao-Blackwell theorem to find UMVUEs and examples
- : Chapter 8.8
+: Midterm Review
  
   
 Nov 21
