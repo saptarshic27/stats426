@@ -3,7 +3,7 @@ title: (Week 17) Finals
 ---
 
 Dec 14
-: **HW 5 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
+: **HW 6 is due**{: .label .label-red } on [Gradescope](https://www.gradescope.com/courses/1094791)
 
 Dec 16
 : **Final Exam**{: .label .label-blue } 
